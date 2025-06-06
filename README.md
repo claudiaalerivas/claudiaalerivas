@@ -46,11 +46,6 @@
 ![Godot](https://img.shields.io/badge/godot-478CBF.svg?style=for-the-badge&logo=godot-engine&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/vscode-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-## 📫 Contacto
-
-- 📧 [[Correo Electrónico]](claudialerivas@gmail.com)
-- 💼 [[LinkedIn]](https://www.linkedin.com/in/claudia-rivas-880740295/)
-
 ---
 
 ⭐ ¡Gracias por visitar mi perfil! ⭐
@@ -103,7 +98,7 @@
 
 ---
 
-### 🔗 &nbsp;Contáctame!
+## 📫 Contacto
 
 <div align="center">
 <a href="mailto:claudialerivas@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
